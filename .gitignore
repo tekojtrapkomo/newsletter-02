@@ -1,0 +1,15 @@
+node_modules
+.svelte-kit
+build
+.vercel
+.DS_Store
+.claude
+
+.env
+.env.*
+!.env.example
+
+# Facebook export: source material, regenerable, and large. The inventory
+# derived from it (content/no-02-inventory.md) is tracked.
+content/fb-export.json
+content/fb-images/
